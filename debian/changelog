@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-containerd-log (0.1.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload
+  * Update Standards-Version to 4.7.0 in d/control (no changes needed)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Mathias Gibbens <gibmat@debian.org>  Thu, 25 Jul 2024 11:24:37 +0000
+
+golang-github-containerd-log (0.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1073534)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 16 Jun 2024 18:24:00 -0400
